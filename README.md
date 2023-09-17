@@ -1,4 +1,4 @@
-[![MasterHead](https://contentstatic.techgig.com/photo/88969223/how-and-why-to-become-a-certified-java-developer-in-2022.jpg?13452)]
+![MasterHead](https://contentstatic.techgig.com/photo/88969223/how-and-why-to-become-a-certified-java-developer-in-2022.jpg?13452)
 <h1 align="center">Hi 👋, I'm Mitesh Yelekar</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
